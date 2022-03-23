@@ -16,3 +16,4 @@ String decoded = urlDecode(encode);
 
 - [X] Encode
 - [X] Decode
+- [ ] Decode with lowercase letters
