@@ -9,3 +9,8 @@ A simple library for URL encoding on Arduino framework.
 
 String encoded = urlEncode("http://example.com/path/to/file.html?param=value&param2=value2");
 ```
+
+## TODO
+
+- [X] Encode
+- [ ] Decode
